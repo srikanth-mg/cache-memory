@@ -24,3 +24,7 @@ This project implements a direct-mapped cache memory using Verilog. It supports 
 - `Cache_Mmeory_New.v` - The main design verilog code for the cache memory
 - `testbench.v` - The required testbench for the written desgin code
 - `README.md` – This documentation
+
+## Author
+**Srikanth Muthuvel Ganthimathi**  
+🔗 [LinkedIn](https://www.linkedin.com/in/srikanth9503/)
